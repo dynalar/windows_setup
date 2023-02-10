@@ -10,5 +10,5 @@ Make sure winget is installed.
 Change directory into this repo, and run the comand below
 
 ```batch
-winget import --import-file "apps.jsonc"
+winget import --import-file "apps.json"
 ```
