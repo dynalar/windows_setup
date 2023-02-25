@@ -51,6 +51,9 @@
 			 },
 			 {
 				"Id":"DelugeTeam.Deluge"
+			 },
+			 {
+				"Id":"Microsoft.VisualStudioCode"
 			 }
 		  ],
 		  "SourceDetails":{
