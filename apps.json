@@ -51,7 +51,13 @@
 			 },
 			 {
 				"Id":"Microsoft.VisualStudioCode"
-			 }
+			 },
+			 {
+				"Id":"WinFsp.WinFsp"
+			 },
+			 {
+				"Id":"SSHFS-Win.SSHFS-Win"
+			 },
 		  ],
 		  "SourceDetails":{
 			 "Argument":"https://winget.azureedge.net/cache",
