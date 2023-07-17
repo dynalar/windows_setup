@@ -51,6 +51,18 @@
 			 },
 			 {
 				"Id":"SSHFS-Win.SSHFS-Win"
+			 },
+			 {
+				"Id":"WireGuard.WireGuard"
+			 },
+			 {
+				"Id":"Git.Git"
+			 },
+			 {
+				"Id":"IDRIX.VeraCrypt"
+			 },
+			 {
+				"Id": "Microsoft.VisualStudio.2022.Community"
 			 }
 		  ],
 		  "SourceDetails":{
