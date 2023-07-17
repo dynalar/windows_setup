@@ -29,9 +29,6 @@
 				"Id":"7zip.7zip"
 			 },
 			 {
-				"Id":"marha.VcXsrv"
-			 },
-			 {
 				"Id":"Telegram.TelegramDesktop"
 			 },
 			 {
@@ -42,9 +39,6 @@
 			 },
 			 {
 				"Id":"NZXT.CAM"
-			 },
-			 {
-				"Id":"JetBrains.Toolbox"
 			 },
 			 {
 				"Id":"DelugeTeam.Deluge"
