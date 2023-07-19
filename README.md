@@ -6,9 +6,8 @@ Dependencies I use when installing Windows 11. Mostly used for gaming, but also 
 ## Dependencies
 Requires Chocolatey.
 
-To install, open a powershell prompt and run these commands
+To install, open a powershell prompt and run these commands:
 
-Opens up the policy a bit
 ```powershell
 Set-ExecutionPolicy AllSigned
 ```
@@ -29,3 +28,11 @@ Change directory into this repo, and run the comand below on a new machine.
 `run.bat`
 
 And all dependencies should install!
+
+## Notes
+If you add more dependencies through chocolatey, make sure to export them using this:
+```
+choco export
+```
+
+It will create an updated packages.config file with your newly added packages. Then move the file into this repo. Do NOT edit packages.config! Make all changes through the choco command when installing, upgrading, deleting, etc.
