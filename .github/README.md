@@ -4,6 +4,11 @@
 Dependencies I use when installing Windows 11. Mostly used for gaming, but also for C# development.
 
 ## Dependencies
+
+<div align="center">
+    <a href="https://chocolatey.org/"><img width="15%" src="./assets/icon_256.png"></a>
+</div>
+
 Requires Chocolatey.
 
 To install, open a powershell prompt and run these commands:
