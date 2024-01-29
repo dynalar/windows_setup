@@ -10,7 +10,7 @@ Dependencies I use when installing Windows 11. Mostly used for gaming, but also 
 </div>
 
 <div align="center">
-    <a href="https://www.autohotkey.com/"><img width="15%" src="./assets/ahk_256.png"></a>
+    <a href="https://www.autohotkey.com/"><img width="15%" src="./assets/ahk_icon.svg"></a>
 </div>
 
 Requires Chocolatey.
